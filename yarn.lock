@@ -4625,6 +4625,11 @@ dedent@0.6.0:
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.6.0.tgz#0e6da8f0ce52838ef5cec5c8f9396b0c1b64a3cb"
   integrity sha1-Dm2o8M5Sg471zsXI+TlrDBtko8s=
 
+dedent@1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/dedent/-/dedent-1.5.1.tgz#4f3fc94c8b711e9bb2800d185cd6ad20f2a90aff"
+  integrity sha512-+LxW+KLWxu3HW3M2w2ympwtqPrqYRzU8fqi6Fhd18fBALe15blJPI/I4+UHveMVG6lJqB4JNd4UG0S5cnVHwIg==
+
 dedent@^0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
@@ -12159,12 +12164,12 @@ ttag-cli@^1.9.2:
     walk "2.3.9"
     yargs "^15.4.1"
 
-ttag@^1.7.24:
-  version "1.7.25"
-  resolved "https://registry.yarnpkg.com/ttag/-/ttag-1.7.25.tgz#bed96b71152e96046c939d65808de50adb2346ff"
-  integrity sha512-g9o7mpe220735BTbMp08Z780snI5u87BaOVWxK/BrM86ceuTOCTrFnOX5ptR1PSELW5xLWHX/iThXdvjlsnMlA==
+ttag@^1.8.6:
+  version "1.8.6"
+  resolved "https://registry.yarnpkg.com/ttag/-/ttag-1.8.6.tgz#257a01a649bb6a47018e32789cc839f19c529e9e"
+  integrity sha512-GwSFsRnthBz+VazcbvoBXcuiorMBEPrHdN3aJHZiTQiuCC1l0fZR0jp405SZ4BCHjvH+qWtVzmSwU6iSvbiSLg==
   dependencies:
-    dedent "^0.7.0"
+    dedent "1.5.1"
     plural-forms "^0.5.3"
 
 tty-browserify@0.0.0:
