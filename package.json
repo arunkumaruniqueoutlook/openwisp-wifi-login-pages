@@ -7,7 +7,7 @@
     "@babel/register": "^7.10.1",
     "@types/morgan": "^1.9.2",
     "autoprefixer": "^9.8.0",
-    "axios": "^0.24.0",
+    "axios": "^1.6.8",
     "compression": "^1.7.4",
     "concurrently": "^8.2.1",
     "cookie-parser": "^1.4.5",
@@ -21,7 +21,7 @@
     "history": "^5.2.0",
     "inquirer": "^8.1.1",
     "js-yaml": "^4.1.0",
-    "jsdom": "^22.1.0",
+    "jsdom": "^24.1.1",
     "lodash": "^4.17.21",
     "marked": "^4.0.10",
     "morgan": "^1.10.0",
@@ -47,7 +47,7 @@
     "tsutils": "^3.17.1",
     "ttag": "^1.7.24",
     "universal-cookie-express": "^6.1.1",
-    "winston": "^3.3.3",
+    "winston": "^3.3.4",
     "winston-transport-sentry-node": "^2.0.0"
   },
   "devDependencies": {
